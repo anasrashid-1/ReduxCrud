@@ -1,0 +1,23 @@
+
+//for getting data
+export const GET_DATA_LOADING = "GET_DATA_LOADING"
+export const GET_DATA_SUCCESS = "GET_DATA_SUCCESS"
+export const GET_DATA_FAILURE = "GET_DATA_FAILURE"
+
+//for posting data
+export const POST_DATA_LOADING = "POST_DATA_LOADING"
+export const POST_DATA_SUCCESS = "POST_DATA_SUCCESS"
+export const POST_DATA_FAILURE = "POST_DATA_FAILURE"
+
+//for editing data
+export const EDIT_DATA_LOADING = "EDIT_DATA_LOADING"
+export const EDIT_DATA_SUCCESS = "EDIT_DATA_SUCCESS"
+export const EDIT_DATA_FAILURE = "EDIT_DATA_FAILURE"
+
+//for deleting data
+export const DELETE_DATA_LOADING = "DELETE_DATA_LOADING"
+export const DELETE_DATA_SUCCESS = "DELETE_DATA_SUCCESS"
+export const DELETE_DATA_FAILURE = "DELETE_DATA_FAILURE"
+
+
+
